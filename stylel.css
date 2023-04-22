@@ -1,0 +1,12 @@
+body{
+    background-image:url(https://wallpaperaccess.com/full/2344055.jpg);
+background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 100%;
+}
+div{
+    width:300px;
+    border: 15px solid rgb(48, 241, 206);
+    padding: 70px;
+    margin: 20px;
+}
